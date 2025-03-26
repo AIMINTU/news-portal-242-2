@@ -15,8 +15,8 @@ npm run dev
 
 ```
 
-```
 Run the production server:
+
 ```
 npm run build 
 npm run start
